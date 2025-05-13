@@ -14,6 +14,7 @@ IF YOU DONT KNOW HOW TO INSTALL DOCKER AND WHAT DOCKER IS : https://docs.docker.
 2. **Build the image:**
 Navigate to the directory containing the dockerfile then run:
 ```
+   cd funydockerfile/
    docker build -t funnyserver .
 ```
 
