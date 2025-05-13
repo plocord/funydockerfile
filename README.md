@@ -6,7 +6,7 @@ A loser minimal Docker image that serves a static website using Nginx. Automatic
 1. **pull the dockerfile:**
    first clone the repository:
 ```
-   git clone [https://github.com/plocord/funydockerfile]
+   git clone https://github.com/plocord/funydockerfile
 ```
 
 
