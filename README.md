@@ -1,5 +1,6 @@
 # funydockerfile
 A loser minimal Docker image that serves a static website using Nginx. Automatically downloads HTML from my gitHub repo during build. It's not even useful. Just funny.
+IF YOU DONT KNOW HOW TO INSTALL DOCKER AND WHAT DOCKER IS : https://docs.docker.com/engine/install/centos/
 
 ## How to install:
 
@@ -42,4 +43,4 @@ That's it.
 btw u can js replace the source website by replacing the link on line 4
 ~
 
-IF YOU DONT KNOW HOW TO INSTALL DOCKER AND WHAT DOCKER IS : https://docs.docker.com/engine/install/centos/
+
