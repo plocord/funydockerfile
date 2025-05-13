@@ -41,3 +41,5 @@ That's it.
 
 btw u can js replace the source website by replacing the link on line 4
 ~
+
+IF YOU DONT KNOW HOW TO INSTALL DOCKER AND WHAT DOCKER IS : https://docs.docker.com/engine/install/centos/
